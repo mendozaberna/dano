@@ -1,0 +1,72 @@
+.unam {
+  background: url("./image.jpg")fixed no-repeat top;
+  background-color: #eee
+}
+
+.gto {
+  background:
+    /*savepage-url=backgroundgto.cfcc75d573c2a48d18e2.jpg*/
+    url();
+  background-color: #eee
+}
+
+.bar-gto {
+  height: 80px;
+  background-color: #05199b;
+  padding-top: 4px
+}
+
+.bar-unam {
+  height: 63px;
+  background-color: #1d3d6c
+}
+
+.title-gto {
+  background-color: #05199b;
+  padding: 8px;
+  color: #fff
+}
+
+.text-justify {
+  text-align: justify
+}
+
+.border-primary {
+  border-color: #76a9f6 !important
+}
+
+.gto-color {
+  color: #05199b
+}
+
+.content {
+  margin: 82px auto 32px;
+  padding: 0 16px
+}
+
+.modulos-info ul {
+  list-style-type: none
+}
+
+.spacer {
+  flex: 1
+}
+
+.toolbar {
+  color: #fff
+}
+
+#logo {
+  height: 60px;
+  line-height: 60px;
+  padding: 0
+}
+
+.toolbar #logo img {
+  vertical-align: middle;
+  max-height: 100%
+}
+
+.toolbar img {
+  margin: 0 16px
+}

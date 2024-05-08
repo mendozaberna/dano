@@ -1,7 +1,4 @@
-import Image from "next/image";
-import styles from "./page.module.css";
-
-export default function Home() {
+export default function About() {
   return (
     <main classNameName="flex-shrink-0">
       <app-root _nghost-ljl-c4="" ng-version="12.1.5"><router-outlet _ngcontent-ljl-c4=""></router-outlet><app-validate
@@ -35,12 +32,11 @@ export default function Home() {
                     </tr>
                     <tr _ngcontent-ljl-c9="">
                       <th _ngcontent-ljl-c9="">Curso: </th>
-                      <td _ngcontent-ljl-c9="">Fortalecimiento de habilidades socioemocionales. Escuela, sociedad y
-                        emociones</td>
+                      <td _ngcontent-ljl-c9="">Fortalecimiento de habilidades socioemocionales. Escuela, sociedad y emociones</td>
                     </tr>
                     <tr _ngcontent-ljl-c9="">
                       <th _ngcontent-ljl-c9="">Nombre: </th>
-                      <td _ngcontent-ljl-c9="">Anahí Murillo Rodríguez</td>
+                      <td _ngcontent-ljl-c9="">Daniela Gonzalez Martinez</td>
                     </tr>
                     <tr _ngcontent-ljl-c9="">
                       <th _ngcontent-ljl-c9="">Fecha emisión: </th>

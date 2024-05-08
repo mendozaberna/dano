@@ -1,6 +1,3 @@
-import Image from "next/image";
-import styles from "./page.module.css";
-
 export default function Home() {
   return (
     <main classNameName="flex-shrink-0">
@@ -31,20 +28,27 @@ export default function Home() {
                   <table _ngcontent-ljl-c9="">
                     <tr _ngcontent-ljl-c9="">
                       <th _ngcontent-ljl-c9="">Folio: </th>
-                      <td _ngcontent-ljl-c9="">SDEI/CPYPE/CONS/34008/2022</td>
+                      <td _ngcontent-ljl-c9="">SDEI/CPYPE/CONS/96662/2023</td>
                     </tr>
                     <tr _ngcontent-ljl-c9="">
                       <th _ngcontent-ljl-c9="">Curso: </th>
-                      <td _ngcontent-ljl-c9="">Fortalecimiento de habilidades socioemocionales. Escuela, sociedad y
-                        emociones</td>
+                      <td _ngcontent-ljl-c9="">PLANEACION DIDACTICA DIVERSIFICADA CON AJUSTES RAZONABLES</td>
                     </tr>
                     <tr _ngcontent-ljl-c9="">
                       <th _ngcontent-ljl-c9="">Nombre: </th>
-                      <td _ngcontent-ljl-c9="">Anahí Murillo Rodríguez</td>
+                      <td _ngcontent-ljl-c9="">Daniela Gonzalez Martinez</td>
                     </tr>
                     <tr _ngcontent-ljl-c9="">
                       <th _ngcontent-ljl-c9="">Fecha emisión: </th>
-                      <td _ngcontent-ljl-c9="">Diciembre del 2022</td>
+                      <td _ngcontent-ljl-c9="">Diciembre del 2023</td>
+                    </tr>
+                    <tr _ngcontent-ljl-c9="">
+                      <th _ngcontent-ljl-c9="">Periodo:	</th>
+                      <td _ngcontent-ljl-c9="">Noviembre - diciembre del 2023</td>
+                    </tr>
+                    <tr _ngcontent-ljl-c9="">
+                      <th _ngcontent-ljl-c9="">Horas:	</th>
+                      <td _ngcontent-ljl-c9="">40 horas</td>
                     </tr>
                   </table>
                 </div>
